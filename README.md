@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/soham_niungare" target="blank"><img src="https://img.shields.io/twitter/follow/soham_niungare?logo=twitter&style=for-the-badge" alt="soham_niungare" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Art Portal](https://github.com/Soham-Niungare/Digital-Art-Portal.git)
-
-- 👯 I’m looking to collaborate on [Road Flow](https://github.com/Soham-Niungare/Traffic-Prediction/issues/1)
+- 🔭 I’m currently working on [Social Media Analysis](https://github.com/Soham-Niungare/Social-Media-Analysis.git)
 
 - 📫 How to reach me **sohamn.in@gmail.com**
 
